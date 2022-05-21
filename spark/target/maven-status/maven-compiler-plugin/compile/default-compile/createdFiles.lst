@@ -1,0 +1,5 @@
+com/taboola/spark/SinkConnector.class
+com/taboola/spark/DBService.class
+com/taboola/spark/DataSource.class
+com/taboola/spark/DBService$1.class
+com/taboola/spark/SparkApp.class
